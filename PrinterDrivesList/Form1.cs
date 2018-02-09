@@ -1,6 +1,9 @@
-﻿///<remarks>
+﻿///<summary>
 ///Upadated Version 2.8.2018
-/// </remarks>
+///Siemens PC Migration Tool
+///Program to retrieve and export printers, drives, and pst file locations to txt file.
+///Also, creates batch file to install previous printers to new pc.
+/// </summary>
 
 using System;
 using System.Text;
